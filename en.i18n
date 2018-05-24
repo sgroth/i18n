@@ -19,8 +19,10 @@ $email = "E-Mail"
 $subjects = "Subjects"
 $website = "Homepage"
 $teaching = "Teaching"
-$birthDate = "Date of Birth"
+$birthDate = "Date of Birth:"
 $privateAdress = "Private Address"
+$expositions = "Expositions"
+$grantwritingsum = "Third Party Funding in Total"
 
 ## Bibliography Items
 $publications = "Publications"

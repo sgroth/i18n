@@ -19,8 +19,10 @@ $reviewerfor = "Gutachtertätigkeiten"
 $grantwriting = "Auszeichnungen und Antragserfahrungen"
 $conferencecontributions = "Vorträge"
 $teaching = "Lehre"
-$birthDate = "Geburtsdatum"
+$birthDate = "Geboren am"
 $privateAdress = "Privatanschrift"
+$expositions = "Ausstellungen"
+$grantwritingsum = "Gesamtfördersumme"
 
 ## Bibliography Items
 $monographies = "Monographien"
