@@ -25,7 +25,7 @@ $privateAdress = "Privatanschrift"
 $expositions = "Ausstellungen"
 $grantwritingsumAll = "Gesamtfördersumme (inkl. Mitarbeit)"
 $grantwritingsumOwn = "Gesamtfördersumme"
-$projects = "Forschungsprojekte"
+$researchprojects = "Forschungsprojekte"
 
 ## Bibliography Items
 $monographies = "Monographien"
