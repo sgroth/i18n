@@ -22,7 +22,9 @@ $teaching = "Teaching"
 $birthDate = "Date of Birth:"
 $privateAdress = "Private Address"
 $expositions = "Expositions"
-$grantwritingsum = "Third Party Funding in Total"
+$grantwritingsum-all = "Third Party Funding in Total"
+$grantwritingsum-own = "Gesamtfördersumme"
+$projects = "Research Projects"
 
 ## Bibliography Items
 $publications = "Publications"

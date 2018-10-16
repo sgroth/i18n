@@ -23,7 +23,9 @@ $teaching = "Lehre"
 $birthDate = "Geboren am"
 $privateAdress = "Privatanschrift"
 $expositions = "Ausstellungen"
-$grantwritingsum = "Gesamtfördersumme"
+$grantwritingsum-all = "Gesamtfördersumme (inkl. Mitarbeit)"
+$grantwritingsum-own = "Gesamtfördersumme"
+$projects = "Forschungsprojekte"
 
 ## Bibliography Items
 $monographies = "Monographien"
