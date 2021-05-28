@@ -21,11 +21,12 @@ $grantwriting = "Drittmittelerfahrungen"
 $conferencecontributions = "Vorträge"
 $teaching = "Lehre"
 $birthDate = "Geboren am"
-$privateAdress = "Privatanschrift"
+$privateAddress = "Privatanschrift"
 $expositions = "Ausstellungen"
 $grantwritingsumAll = "Fördersumme inkl. Mitarbeit"
 $grantwritingsumOwn = "Gesamtfördersumme"
 $researchprojects = "Forschungsprojekte"
+$workAddress = "Dienstanschrift"
 
 ## Bibliography Items
 $monographies = "Monographien"
