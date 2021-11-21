@@ -27,6 +27,7 @@ $telephone = "Telefon"
 $website ="Homepage"
 $workAddress = "Dienstanschrift"
 $workshops = "Organisation"
+$workshops_annote = "Planung, Organisation und Durchführung von Workshops, Panels, Tagungen"
 
 ## Bibliography Items
 $editedvolumearticles = "Aufsätze in Sammelbänden"
