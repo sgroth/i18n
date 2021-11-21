@@ -1,7 +1,7 @@
 # Dictionary
 ## CV Items
 $advisorName = "Advisor"
-$birthDate = "Date of Birth:"
+$birthDate = "Date of Birth"
 $committees = "Work in committees"
 $conferencecontributions = "Presentations"
 $currentposition = "Current Position"
